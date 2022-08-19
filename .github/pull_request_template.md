@@ -7,4 +7,4 @@
 - [ ] I have added through tests
 - [ ] My code builds clean with no warnings or errors
 
-![Pull request image](pull_request_image.jpg)
+![Pull request image](https://i.imgflip.com/42crbn.jpg)
