@@ -1,1 +1,0 @@
-In order for the pull request image to appear in your repository for pull requests, you must put the link to the image in `pull_request_template.md` for your particular repository. This can be done by copying the image address and placing it in the proper location.
